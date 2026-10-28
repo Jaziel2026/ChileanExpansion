@@ -19,7 +19,7 @@
         "feature": "chilean_expansion:maqui_placed"
       },
       {
-        "chance": 0.30,
+        "chance": 0.50,
         "feature": "minecraft:fancy_oak_checked"
       }
     ],
