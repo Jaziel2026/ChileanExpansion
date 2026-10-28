@@ -1,0 +1,24 @@
+{
+  "creativetab.chilean_expansion_tab": "Expansión Chilena",
+
+  "item.chilean_expansion.maqui_bayas": "Bayas de Maqui",
+  "item.chilean_expansion.maqui_fibra": "Fibra de Maqui",
+  "item.chilean_expansion.maqui_vara": "Vara de Maqui",
+  "item.chilean_expansion.maqui_cuerda": "Cuerda Mewlen",
+  "item.chilean_expansion.maqui_arco": "Arco Tralcan",
+  "item.chilean_expansion.copihue_fruto": "Fruto del Copihue",
+
+  "block.chilean_expansion.maqui_tronco": "Tronco de Maqui",
+  "block.chilean_expansion.maqui_hojas": "Hojas de Maqui",
+  "block.chilean_expansion.maqui_brote": "Brote de Maqui",
+  "block.chilean_expansion.alerce_tronco": "Tronco de Alerce",
+  "block.chilean_expansion.alerce_hojas": "Hojas de Alerce",
+  "block.chilean_expansion.alerce_brote": "Brote de Alerce",
+  "block.chilean_expansion.alerce_madera": "Madera de Alerce",
+  "block.chilean_expansion.copihue": "Copihue",
+  "block.chilean_expansion.quila": "Quila",
+  "block.chilean_expansion.palomita": "Palomita",
+  "block.chilean_expansion.moss_block_dark": "Bloque de Musgo Oscuro",
+
+  "biome.chilean_expansion.selva_valdiviana": "Selva Valdiviana"
+}

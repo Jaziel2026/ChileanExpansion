@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_log",
+    "minecraft:oak_wood",
+    "minecraft:dark_oak_log",
+    "minecraft:dark_oak_wood",
+    "chilean_expansion:alerce_tronco",
+    "chilean_expansion:alerce_madera"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_post" }
+    },
+    {
+      "when": { "north": "true" },
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_side", "uvlock": true }
+    },
+    {
+      "when": { "east": "true" },
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_side", "y": 90, "uvlock": true }
+    },
+    {
+      "when": { "south": "true" },
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_side", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "west": "true" },
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_side", "y": 270, "uvlock": true }
+    },
+    {
+      "when": { "up": "true" },
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_side", "x": 270, "uvlock": true }
+    },
+    {
+      "when": { "down": "true" },
+      "apply": { "model": "chilean_expansion:block/maqui_tronco_side", "x": 90, "uvlock": true }
+    }
+  ]
+}

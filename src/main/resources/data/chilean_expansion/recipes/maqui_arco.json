@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "chilean_expansion:maqui_fibra"
+    },
+    "W": {
+      "item": "chilean_expansion:maqui_vara"
+    }
+  },
+  "pattern": [
+    "#W ",
+    "# W",
+    "#W "
+  ],
+  "result": {
+    "item": "chilean_expansion:maqui_arco"
+  },
+  "show_notification": false
+}

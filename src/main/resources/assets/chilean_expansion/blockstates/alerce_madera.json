@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "chilean_expansion:block/alerce_madera" },
+    "axis=z": { "model": "chilean_expansion:block/alerce_madera", "x": 90 },
+    "axis=x": { "model": "chilean_expansion:block/alerce_madera", "x": 90, "y": 90 }
+  }
+}

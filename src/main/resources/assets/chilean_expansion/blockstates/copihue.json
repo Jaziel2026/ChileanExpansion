@@ -1,0 +1,33 @@
+{
+  "multipart": [
+    { "when": { "facing": "north" }, "apply": { "model": "chilean_expansion:block/copihue_enredadera" } },
+    { "when": { "facing": "east" }, "apply": { "model": "chilean_expansion:block/copihue_enredadera", "y": 90 } },
+    { "when": { "facing": "south" }, "apply": { "model": "chilean_expansion:block/copihue_enredadera", "y": 180 } },
+    { "when": { "facing": "west" }, "apply": { "model": "chilean_expansion:block/copihue_enredadera", "y": 270 } },
+
+    { "when": { "age": "1", "color": "0", "facing": "north" }, "apply": { "model": "chilean_expansion:block/copihue_rojo" } },
+    { "when": { "age": "1", "color": "0", "facing": "east" }, "apply": { "model": "chilean_expansion:block/copihue_rojo", "y": 90 } },
+    { "when": { "age": "1", "color": "0", "facing": "south" }, "apply": { "model": "chilean_expansion:block/copihue_rojo", "y": 180 } },
+    { "when": { "age": "1", "color": "0", "facing": "west" }, "apply": { "model": "chilean_expansion:block/copihue_rojo", "y": 270 } },
+
+    { "when": { "age": "1", "color": "1", "facing": "north" }, "apply": { "model": "chilean_expansion:block/copihue_rosa" } },
+    { "when": { "age": "1", "color": "1", "facing": "east" }, "apply": { "model": "chilean_expansion:block/copihue_rosa", "y": 90 } },
+    { "when": { "age": "1", "color": "1", "facing": "south" }, "apply": { "model": "chilean_expansion:block/copihue_rosa", "y": 180 } },
+    { "when": { "age": "1", "color": "1", "facing": "west" }, "apply": { "model": "chilean_expansion:block/copihue_rosa", "y": 270 } },
+
+    { "when": { "age": "1", "color": "2", "facing": "north" }, "apply": { "model": "chilean_expansion:block/copihue_blanco" } },
+    { "when": { "age": "1", "color": "2", "facing": "east" }, "apply": { "model": "chilean_expansion:block/copihue_blanco", "y": 90 } },
+    { "when": { "age": "1", "color": "2", "facing": "south" }, "apply": { "model": "chilean_expansion:block/copihue_blanco", "y": 180 } },
+    { "when": { "age": "1", "color": "2", "facing": "west" }, "apply": { "model": "chilean_expansion:block/copihue_blanco", "y": 270 } },
+
+    { "when": { "age": "1", "color": "3", "facing": "north" }, "apply": { "model": "chilean_expansion:block/copihue_colli" } },
+    { "when": { "age": "1", "color": "3", "facing": "east" }, "apply": { "model": "chilean_expansion:block/copihue_colli", "y": 90 } },
+    { "when": { "age": "1", "color": "3", "facing": "south" }, "apply": { "model": "chilean_expansion:block/copihue_colli", "y": 180 } },
+    { "when": { "age": "1", "color": "3", "facing": "west" }, "apply": { "model": "chilean_expansion:block/copihue_colli", "y": 270 } },
+
+    { "when": { "age": "2", "facing": "north" }, "apply": { "model": "chilean_expansion:block/copihue_fruto" } },
+    { "when": { "age": "2", "facing": "east" }, "apply": { "model": "chilean_expansion:block/copihue_fruto", "y": 90 } },
+    { "when": { "age": "2", "facing": "south" }, "apply": { "model": "chilean_expansion:block/copihue_fruto", "y": 180 } },
+    { "when": { "age": "2", "facing": "west" }, "apply": { "model": "chilean_expansion:block/copihue_fruto", "y": 270 } }
+  ]
+}

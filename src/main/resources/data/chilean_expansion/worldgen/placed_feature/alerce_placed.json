@@ -1,0 +1,14 @@
+{
+  "feature": "chilean_expansion:alerce",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "chilean_expansion:alerce_brote"
+        }
+      }
+    }
+  ]
+}

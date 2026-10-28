@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "chilean_expansion:gran_abuelo",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "distance": 20,
+    "spread": 10,
+    "count": 1,
+    "salt": 48291047,
+    "preferred_biomes": "#chilean_expansion:has_structure/gran_abuelo"
+  }
+}

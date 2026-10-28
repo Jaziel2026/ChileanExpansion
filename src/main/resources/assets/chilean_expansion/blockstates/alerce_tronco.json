@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y": { "model": "chilean_expansion:block/alerce_tronco" },
+    "axis=z": { "model": "chilean_expansion:block/alerce_tronco_horizontal", "x": 90 },
+    "axis=x": { "model": "chilean_expansion:block/alerce_tronco_horizontal", "x": 90, "y": 90 }
+  }
+}

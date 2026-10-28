@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=lower": { "model": "chilean_expansion:block/tupa_base" },
+    "half=upper": { "model": "chilean_expansion:block/tupa_top" }
+  }
+}

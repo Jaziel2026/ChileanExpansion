@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "chilean_expansion:block/moss_block_dark"
+  }
+}

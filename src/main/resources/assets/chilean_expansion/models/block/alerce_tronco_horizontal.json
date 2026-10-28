@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "chilean_expansion:block/alerce_tronco_top",
+    "side": "chilean_expansion:block/alerce_tronco"
+  }
+}
+

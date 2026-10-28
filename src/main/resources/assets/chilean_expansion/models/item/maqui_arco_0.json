@@ -1,0 +1,6 @@
+{
+    "parent": "chilean_expansion:item/maqui_arco",
+    "textures": {
+        "layer0": "chilean_expansion:item/maqui_arco_0"
+    }
+}

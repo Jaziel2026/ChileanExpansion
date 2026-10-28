@@ -1,0 +1,24 @@
+{
+  "creativetab.chilean_expansion_tab": "Chilean Expansion",
+
+  "item.chilean_expansion.maqui_bayas": "Maqui Berries",
+  "item.chilean_expansion.maqui_fibra": "Maqui Fiber",
+  "item.chilean_expansion.maqui_vara": "Maqui Stick",
+  "item.chilean_expansion.maqui_cuerda": "Mewlen Cord",
+  "item.chilean_expansion.maqui_arco": "Tralcan Bow",
+  "item.chilean_expansion.copihue_fruto": "Copihue Fruit",
+
+  "block.chilean_expansion.maqui_tronco": "Maqui Log",
+  "block.chilean_expansion.maqui_hojas": "Maqui Leaves",
+  "block.chilean_expansion.maqui_brote": "Maqui Sapling",
+  "block.chilean_expansion.alerce_tronco": "Alerce Log",
+  "block.chilean_expansion.alerce_hojas": "Alerce Leaves",
+  "block.chilean_expansion.alerce_brote": "Alerce Sapling",
+  "block.chilean_expansion.alerce_madera": "Alerce Wood",
+  "block.chilean_expansion.copihue": "Copihue",
+  "block.chilean_expansion.quila": "Quila",
+  "block.chilean_expansion.palomita": "Palomita",
+  "block.chilean_expansion.moss_block_dark": "Dark Moss Block",
+
+  "biome.chilean_expansion.selva_valdiviana": "Valdivian Rainforest"
+}

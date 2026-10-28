@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jaziel.chilean_expansion.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "chilean_expansion.refmap.json",
+  "mixins": [
+    "MobMaquiCuerdaMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "chilean_expansion:maqui_tronco"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "chilean_expansion:maqui_fibra"
+  },
+  "show_notification": false
+}

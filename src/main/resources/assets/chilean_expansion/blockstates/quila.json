@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "chilean_expansion:block/quila_joven"
+    },
+    "age=1": {
+      "model": "chilean_expansion:block/quila_madura"
+    }
+  }
+}

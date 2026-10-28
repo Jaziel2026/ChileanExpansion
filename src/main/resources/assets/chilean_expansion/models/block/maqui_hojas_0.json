@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "chilean_expansion:block/maqui_hojas_0"
+  }
+}
